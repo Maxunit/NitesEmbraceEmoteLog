@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/13.0.0">
+
+  <PropertyGroup>
+    <Version>1.1.5.0</Version>
+    <AssemblyName>NitesEmbraceEmoteLog</AssemblyName>
+    <PackageProjectUrl>https://github.com/Maxunit/NitesEmbraceEmoteLog</PackageProjectUrl>
+    <TargetFramework>net9.0-windows</TargetFramework>
+  </PropertyGroup>
+</Project>

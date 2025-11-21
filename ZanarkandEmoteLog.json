@@ -1,0 +1,16 @@
+{
+  "Author": "Speedas, Edited by Rico Stryker, Renamed by Maxunit",
+  "Name": "Nite's Embrace Emote log",
+  "Description": "Shows all emotes used in the instance and who used them.",
+  "Punchline": "Shows all emotes used in the instance and who used them.",
+  "RepoUrl": "https://github.com/Maxunit/ZanarkandEmoteLog",
+  "Tags": [
+    "EmoteLog",
+    "Nite's Embrace",
+    "rico",
+    "maxunit"
+  ],
+  "DownloadLinkInstall": "https://github.com/Maxunit/ZanarkandEmoteLog/releases/download/release/latest.zip",
+  "DownloadLinkTesting": "https://github.com/Maxunit/ZanarkandEmoteLog/releases/download/release/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/Maxunit/ZanarkandEmoteLog/releases/download/release/latest.zip"
+}
